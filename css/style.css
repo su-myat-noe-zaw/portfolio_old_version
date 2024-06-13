@@ -219,9 +219,9 @@ td{
     text-align: start;
 }
 .project-img{
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 .overlay{
     height: 80%;
